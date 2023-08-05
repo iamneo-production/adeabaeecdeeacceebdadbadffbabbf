@@ -1,0 +1,20 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/iamneo-production/adeabaeecdeeacceebdadbadffbabbf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamneo-production/adeabaeecdeeacceebdadbadffbabbf/issues"
+  },
+  "homepage": "https://github.com/iamneo-production/adeabaeecdeeacceebdadbadffbabbf#readme"
+}
