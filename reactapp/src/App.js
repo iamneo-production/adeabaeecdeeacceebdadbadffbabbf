@@ -2,7 +2,7 @@ import Stopwatch from './components/Stopwatch/Stopwatch';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+/*function App() {
   return (
     <div className="App">
       <header className="App-header">
@@ -21,6 +21,13 @@ function App() {
       </header>
     </div>
   );
+}*/
+function App(){
+  return (
+    <div className="App">
+        <Stopwatch />
+    </div>
+);
 }
 
 export default App;
